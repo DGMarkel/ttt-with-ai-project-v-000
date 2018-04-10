@@ -9,7 +9,7 @@ class TicTacToe
     puts "*********************************************************************".blue
     puts "How many of you humans will be playing today?".yellow
     puts ""
-    puts "0:".blue + " Watch two brilliant AIs duke it out to a bloody final conclusion.".yellow
+    puts "0:".blue + " Watch two brilliant AIs duke it out to a" + "bloody".red "final conclusion.".yellow
     puts "1:".blue + " You test your wits against mine.  Who knows?  You might even win.".yellow
     puts "...".blue
     puts "Probably not, though.".blue
